@@ -1,1 +1,1 @@
-Collection of mostly self written utility tools for different purposes. Mostly focused on the detection of security vulnerabilities.
+Collection of mostly self written utility tools for different purposes. Focused on the detection of security vulnerabilities.
